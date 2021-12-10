@@ -41,3 +41,11 @@ header span {
     border: 2px solid black;
     margin: 20px auto;
 }
+
+.comando {
+    background-color: rgb(56, 55, 55);
+    padding: 0px 5px;
+    border-radius: 3px;
+    color: rgb(29, 207, 183);
+    font-weight: bold;
+}

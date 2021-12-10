@@ -34,3 +34,10 @@ header span {
 .titulo {
     text-align: center;
 }
+
+.borderline {
+    display: block;
+    width: 80%;
+    border: 2px solid black;
+    margin: 20px auto;
+}

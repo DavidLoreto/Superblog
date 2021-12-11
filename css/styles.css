@@ -24,9 +24,8 @@ header span {
 }
 .container {
     width: 70%;
-    margin: 0 auto;
-    margin-top: 10px;
-    padding: 2em;
+    margin: 10px auto;
+    padding: 1em 2em;
     background-color: white;
     border-radius: 5px;
 }
